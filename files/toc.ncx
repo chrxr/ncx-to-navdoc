@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+
+	<head>
+		<meta name="dtb:uid" content="PUKSTYLE007"/>
+	</head>
+	<docTitle>
+		<text>Penguin UK eBook Style Template_060712</text>
+	</docTitle>
+
+	<navMap>
+		<navPoint id="navPoint-1" playOrder="1">
+			<navLabel>
+				<text>Cover</text>
+			</navLabel>
+			<content src="xhtml/cover.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-2" playOrder="2">
+			<navLabel>
+				<text>Title Page</text>
+			</navLabel>
+			<content src="xhtml/Start.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-3" playOrder="3">
+			<navLabel>
+				<text>Contents</text>
+			</navLabel>
+			<content src="xhtml/toc_html.xhtml"/>
+		</navPoint>
+
+		<navPoint id="navPoint-4" playOrder="4">
+			<navLabel>
+				<text>Front Matter Styles</text>
+			</navLabel>
+			<content src="xhtml/EB15ContentsText.xhtml"/>
+			<navPoint id="navPoint-5" playOrder="5">
+				<navLabel>
+					<text>EB Contents Text</text>
+				</navLabel>
+				<content src="xhtml/EB15ContentsText.xhtml#EB15ContentsText001"/>
+			</navPoint>
+			<navPoint id="navPoint-6" playOrder="6">
+				<navLabel>
+					<text>EB Contents Number and Title</text>
+				</navLabel>
+				<content src="xhtml/EB15ContentsText.xhtml#EB15ContentsText005"/>
+			</navPoint>
+			<navPoint id="navPoint-7" playOrder="7">
+				<navLabel>
+					<text>EB Imprint 1</text>
+				</navLabel>
+				<content src="xhtml/EB01Imprint.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-8" playOrder="8">
+				<navLabel>
+					<text>EB Imprint 2</text>
+				</navLabel>
+				<content src="xhtml/EB01Imprint2.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-9" playOrder="9">
+				<navLabel>
+					<text>EB Imprint 3</text>
+				</navLabel>
+				<content src="xhtml/EB01Imprint3.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-10" playOrder="10">
+				<navLabel>
+					<text>EB Imprint 4</text>
+				</navLabel>
+				<content src="xhtml/EB01Imprint4.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navPoint-11" playOrder="11">
+			<navLabel>
+				<text>Chapter Styles</text>
+			</navLabel>
+			<content src="xhtml/epigraph.xhtml"/>
+			<navPoint id="navPoint-12" playOrder="12">
+				<navLabel>
+					<text>EB Epigraph</text>
+				</navLabel>
+				<content src="xhtml/epigraph.xhtml#epigraph002"/>
+			</navPoint>
+			<navPoint id="navPoint-13" playOrder="13">
+				<navLabel>
+					<text>EB Epigraph Source</text>
+				</navLabel>
+				<content src="xhtml/epigraph.xhtml#epigraph003"/>
+			</navPoint>
+		</navPoint>
+
+		<navPoint id="navPoint-14" playOrder="14">
+			<navLabel>
+				<text>Body Styles</text>
+			</navLabel>
+			<content src="xhtml/Paragraphs.xhtml"/>
+			<navPoint id="navPoint-15" playOrder="15">
+				<navLabel>
+					<text>EB Body Text full out </text>
+				</navLabel>
+				<content src="xhtml/Paragraphs.xhtml#Paragraphs001"/>
+			</navPoint>
+			<navPoint id="navPoint-16" playOrder="16">
+				<navLabel>
+					<text>EB Body Text indented </text>
+				</navLabel>
+				<content src="xhtml/Paragraphs.xhtml#Paragraphs002"/>
+			</navPoint>
+			<navPoint id="navPoint-17" playOrder="17">
+				<navLabel>
+					<text>EB Line Space</text>
+				</navLabel>
+				<content src="xhtml/Paragraphs.xhtml#Paragraphs003"/>
+			</navPoint>
+			<navPoint id="navPoint-18" playOrder="18">
+				<navLabel>
+					<text>EB Indented Line Space</text>
+				</navLabel>
+				<content src="xhtml/Paragraphs.xhtml#Paragraphs004"/>
+			</navPoint>
+		</navPoint>
+
+		<navPoint id="navPoint-19" playOrder="19">
+			<navLabel>
+				<text>Head Styles</text>
+			</navLabel>
+			<content src="xhtml/EB04MainHead.xhtml"/>
+			<navPoint id="navPoint-20" playOrder="20">
+				<navLabel>
+					<text>EB Main Head</text>
+				</navLabel>
+				<content src="xhtml/EB04MainHead.xhtml#EB04MainHead001"/>
+			</navPoint>
+			<navPoint id="navPoint-21" playOrder="21">
+				<navLabel>
+					<text>EB Main Head, Chapter Number and Title</text>
+				</navLabel>
+				<content src="xhtml/EB04MainHeadSubHead.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-22" playOrder="22">
+				<navLabel>
+					<text>EB Main Head 2</text>
+				</navLabel>
+				<content src="xhtml/EB04MainHead2.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-23" playOrder="23">
+				<navLabel>
+					<text>EB Part Title Page 1</text>
+				</navLabel>
+				<content src="xhtml/EB04PartTitle1.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-24" playOrder="24">
+				<navLabel>
+					<text>EB Part Title Page 2</text>
+				</navLabel>
+				<content src="xhtml/EB04PartTitle2.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-25" playOrder="25">
+				<navLabel>
+					<text>EB Main Head 3</text>
+				</navLabel>
+				<content src="xhtml/EB06MainHead3.xhtml"/>
+			</navPoint>
+
+			<navPoint id="navPoint-26" playOrder="26">
+				<navLabel>
+					<text>EB Small Caps Medium Head</text>
+				</navLabel>
+				<content src="xhtml/EB07SmallCapsMediumHead.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-27" playOrder="27">
+				<navLabel>
+					<text>EB Extra Feature Head</text>
+				</navLabel>
+				<content src="xhtml/EB08ExtraFeatureHead.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-28" playOrder="28">
+				<navLabel>
+					<text>EB Small Caps Large Head </text>
+				</navLabel>
+				<content src="xhtml/EB09SmallCapsLargeHead.xhtml"/>
+			</navPoint>
+
+			<navPoint id="navPoint-29" playOrder="29">
+				<navLabel>
+					<text>EB Small Head</text>
+				</navLabel>
+				<content src="xhtml/EB10SmallHead.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-30" playOrder="30">
+				<navLabel>
+					<text>EB Small Italic Head</text>
+				</navLabel>
+				<content src="xhtml/EB11SmallItalicHead.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-31" playOrder="31">
+				<navLabel>
+					<text>EB Small Italic</text>
+				</navLabel>
+				<content src="xhtml/EB12SmallItalic.xhtml"/>
+			</navPoint>
+		</navPoint>
+		
+		
+		<navPoint id="navPoint-32" playOrder="32">
+			<navLabel>
+				<text>Extra Features Styles</text>
+			</navLabel>
+			<content src="xhtml/EB19ExtraFeatureFullOut.xhtml"/>
+			<navPoint id="navPoint-33" playOrder="33">
+				<navLabel>
+					<text>EB Extra Feature full out</text>
+				</navLabel>
+				<content src="xhtml/EB19ExtraFeatureFullOut.xhtml#EB19ExtraFeatureFullOut001"/>
+			</navPoint>
+			<navPoint id="navPoint-34" playOrder="34">
+				<navLabel>
+					<text>EB Extra Feature indented</text>
+				</navLabel>
+				<content src="xhtml/ExtraFeature.xhtml#ExtraFeature005"/>
+			</navPoint>
+			<navPoint id="navPoint-35" playOrder="35">
+				<navLabel>
+					<text>EB Extra Feature First </text>
+				</navLabel>
+				<content src="xhtml/ExtraFeature.xhtml#ExtraFeature003"/>
+			</navPoint>
+			<navPoint id="navPoint-36" playOrder="36">
+				<navLabel>
+					<text>EB Extra Feature Last</text>
+				</navLabel>
+				<content src="xhtml/ExtraFeature.xhtml#ExtraFeature006"/>
+			</navPoint>
+		</navPoint>
+
+
+		<navPoint id="navPoint-37" playOrder="37">
+			<navLabel>
+				<text>List Styles</text>
+			</navLabel>
+			<content src="xhtml/List.xhtml"/>
+			<navPoint id="navPoint-38" playOrder="38">
+				<navLabel>
+					<text>EB List first</text>
+				</navLabel>
+				<content src="xhtml/List.xhtml#list003"/>
+			</navPoint>
+			<navPoint id="navPoint-39" playOrder="39">
+				<navLabel>
+					<text>EB List</text>
+				</navLabel>
+				<content src="xhtml/List.xhtml#list004"/>
+			</navPoint>
+			<navPoint id="navPoint-40" playOrder="40">
+				<navLabel>
+					<text>EB List last</text>
+				</navLabel>
+				<content src="xhtml/List.xhtml#list005"/>
+			</navPoint>
+
+		</navPoint>
+		<navPoint id="navPoint-41" playOrder="41">
+			<navLabel>
+				<text>Inline tables</text>
+			</navLabel>
+			<content src="xhtml/InlineTables.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-42" playOrder="42">
+		<navLabel>
+				<text>Maps</text>
+			</navLabel>
+			<content src="xhtml/MapPage.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-43" playOrder="43">
+			<navLabel>
+				<text>Inline Images with Captions</text>
+			</navLabel>
+			<content src="xhtml/Images_captions.xhtml"/>
+		</navPoint>
+
+		<navPoint id="navPoint-44" playOrder="44">
+			<navLabel>
+				<text>Large images</text>
+			</navLabel>
+			<content src="xhtml/Large_images.xhtml"/>
+			<navPoint id="navPoint-45" playOrder="45">
+				<navLabel>
+					<text>Full-page image</text>
+				</navLabel>
+				<content src="xhtml/Large_images.xhtml#image1"/>
+			</navPoint>
+			<navPoint id="navPoint-46" playOrder="46">
+				<navLabel>
+					<text>Full-page image with caption</text>
+				</navLabel>
+				<content src="xhtml/Large_images.xhtml#image4"/>
+			</navPoint>
+		</navPoint>
+		
+		<navPoint id="navPoint-47" playOrder="47">
+			<navLabel>
+				<text>Subscript - Superscript</text>
+			</navLabel>
+			<content src="xhtml/SubSuperScript.xhtml"/>
+		</navPoint>
+
+		<navPoint id="navPoint-48" playOrder="48">
+			<navLabel>
+				<text>Endmatter Styles</text>
+			</navLabel>
+			<content src="xhtml/copyright.xhtml"/>
+			<navPoint id="navPoint-49" playOrder="49">
+				<navLabel>
+					<text>EB Copyright Head</text>
+				</navLabel>
+				<content src="xhtml/copyright.xhtml#copyright001"/>
+			</navPoint>
+			<navPoint id="navPoint-50" playOrder="50">
+				<navLabel>
+					<text>EB Copyright Text</text>
+				</navLabel>
+				<content src="xhtml/copyright.xhtml#copyright002"/>
+			</navPoint>
+			<navPoint id="navPoint-51" playOrder="51">
+				<navLabel>
+					<text>EB Small Text hanging indent</text>
+				</navLabel>
+				<content src="xhtml/EB26SmallTextHangingIndent.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-52" playOrder="52">
+				<navLabel>
+					<text>EB Small Text extra indent</text>
+				</navLabel>
+				<content src="xhtml/index.xhtml#index004"/>
+			</navPoint>
+			<navPoint id="navPoint-53" playOrder="53">
+				<navLabel>
+					<text>EB Footnotes</text>
+				</navLabel>
+				<content src="xhtml/Footnotes_C1_P1.xhtml"/>
+			</navPoint>
+			<navPoint id="navPoint-54" playOrder="54">
+				<navLabel>
+					<text>EB Endnotes</text>
+				</navLabel>
+				<content src="xhtml/Endnotes.xhtml"/>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navPoint-55" playOrder="55">
+			<navLabel>
+				<text>Order of Contents for eBooks</text>
+			</navLabel>
+			<content src="xhtml/Order.xhtml"/>
+		</navPoint>
+		<navPoint id="navPoint-56" playOrder="56">
+			<navLabel>
+				<text>Mapping of Print Styles to eBook Styles</text>
+			</navLabel>
+			<content src="xhtml/Mapping.xhtml"/>
+		</navPoint>
+	</navMap>
+
+</ncx>

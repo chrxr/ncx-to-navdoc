@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="3.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title id="en_title" xml:lang="en-us">Access_Penguin UK eBook Style Template_050712</dc:title>
+		<dc:creator id="creator">Penguin UK</dc:creator>
+		<dc:contributor id='contributor'>Chris Rogers</dc:contributor>
+		<meta refines="#contributor" property="role" scheme="marc:relators" id="role">aut</meta>
+		<dc:description id="en_description" xml:lang="en">Example file of Penguin UK ebook styles</dc:description>
+		<dc:publisher id="en_publisher" xml:lang="en">Penguin UK</dc:publisher>
+		<dc:date>2012-07-05</dc:date>
+		<dc:identifier id="uid">PUKSTYLE007</dc:identifier>
+		<dc:language>en</dc:language>
+		<meta property="dcterms:modified">2012-06-05T10:53:00Z</meta>
+		<meta name="cover" content="coverimage"/>
+	</metadata>
+	<manifest>
+		<item id="coverpage" media-type="application/xhtml+xml" href="xhtml/cover.xhtml"/>
+		<item id="toc" properties="nav" media-type="application/xhtml+xml" href="toc.xhtml"/>
+		<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+		<item id="coverimage" href="images/cover.jpg" media-type="image/jpeg"/>
+		<item id="item1" media-type="application/xhtml+xml" href="xhtml/Start.xhtml"/>
+		<item id="item2" media-type="application/xhtml+xml" href="xhtml/toc_html.xhtml"/>
+		<item id="item3" media-type="application/xhtml+xml" href="xhtml/EB15ContentsText.xhtml"/>
+		<item id="item4" media-type="application/xhtml+xml" href="xhtml/EB01Imprint.xhtml"/>
+		<item id="item5" media-type="application/xhtml+xml" href="xhtml/EB01Imprint2.xhtml"/>
+		<item id="item6" media-type="application/xhtml+xml" href="xhtml/EB01Imprint3.xhtml"/>
+		<item id="item7" media-type="application/xhtml+xml" href="xhtml/EB01Imprint4.xhtml"/>
+		<item id="item8" media-type="application/xhtml+xml" href="xhtml/epigraph.xhtml"/>		
+		<item id="item9" media-type="application/xhtml+xml" href="xhtml/Paragraphs.xhtml"/>		
+		<item id="item10" media-type="application/xhtml+xml" href="xhtml/EB04MainHead.xhtml"/>
+		<item id="item11" media-type="application/xhtml+xml" href="xhtml/EB04MainHeadSubHead.xhtml"/>
+		<item id="item12" media-type="application/xhtml+xml" href="xhtml/EB04MainHead2.xhtml"/>
+		<item id="item13" media-type="application/xhtml+xml" href="xhtml/EB04PartTitle1.xhtml"/>
+		<item id="item14" media-type="application/xhtml+xml" href="xhtml/EB04PartTitle2.xhtml"/>
+		<item id="item15" media-type="application/xhtml+xml" href="xhtml/EB06MainHead3.xhtml"/>
+		<item id="item16" media-type="application/xhtml+xml" href="xhtml/EB07SmallCapsMediumHead.xhtml"/>
+		<item id="item17" media-type="application/xhtml+xml" href="xhtml/EB08ExtraFeatureHead.xhtml"/>
+		<item id="item18" media-type="application/xhtml+xml" href="xhtml/EB09SmallCapsLargeHead.xhtml"/>
+		<item id="item19" media-type="application/xhtml+xml" href="xhtml/EB10SmallHead.xhtml"/>
+		<item id="item20" media-type="application/xhtml+xml" href="xhtml/EB11SmallItalicHead.xhtml"/>		
+		<item id="item21" media-type="application/xhtml+xml" href="xhtml/EB12SmallItalic.xhtml"/>		
+		<item id="item22" media-type="application/xhtml+xml" href="xhtml/EB19ExtraFeatureFullOut.xhtml"/>
+		<item id="item23" media-type="application/xhtml+xml" href="xhtml/ExtraFeature.xhtml"/>		
+		<item id="item24" media-type="application/xhtml+xml" href="xhtml/List.xhtml"/>
+		<item id="item25" media-type="application/xhtml+xml" href="xhtml/InlineTables.xhtml"/>		
+		<item id="item26" media-type="application/xhtml+xml" href="xhtml/MapPage.xhtml"/>
+		<item id="item28" media-type="application/xhtml+xml" href="xhtml/Images_captions.xhtml"/>
+		<item id="item29" media-type="application/xhtml+xml" href="xhtml/Large_images.xhtml"/>
+		<item id="item30" media-type="application/xhtml+xml" href="xhtml/SubSuperScript.xhtml"/>
+		<item id="item31" media-type="application/xhtml+xml" href="xhtml/copyright.xhtml"/>
+		<item id="item32" media-type="application/xhtml+xml" href="xhtml/EB26SmallTextHangingIndent.xhtml"/>
+		<item id="item33" media-type="application/xhtml+xml" href="xhtml/index.xhtml"/>
+		<item id="item34" media-type="application/xhtml+xml" href="xhtml/Footnotes_C1_P1.xhtml"/>
+		<item id="item35" media-type="application/xhtml+xml" href="xhtml/Footnotes_C2_P1.xhtml"/>
+		<item id="item36" media-type="application/xhtml+xml" href="xhtml/Footnotes_C3_P1.xhtml"/>
+		<item id="item37" media-type="application/xhtml+xml" href="xhtml/Endnotes.xhtml"/>
+		<item id="item38" media-type="application/xhtml+xml" href="xhtml/Order.xhtml"/>
+		<item id="item39" media-type="application/xhtml+xml" href="xhtml/Mapping.xhtml"/>
+		<item id="css" href="styles/stylesheet.css" media-type="text/css"/>
+		<item id="logo" href="images/allenlane.jpg" media-type="image/jpeg"/>
+		<item id="maptop" href="images/Map1top.png" media-type="image/png"/>
+		<item id="mapmiddle" href="images/Map1middle.png" media-type="image/png"/>
+		<item id="mapbottom" href="images/Map1bottom.png" media-type="image/png"/>
+		<item id="mapfull" href="images/MontenegroFull.png" media-type="image/png"/>
+		<item id="stampimage" href="images/stampimage.png" media-type="image/png"/>
+		<item id="admiral_600x860" href="images/admiral_600x860.png" media-type="image/png"/>
+		<item id="penguin" href="images/penguin.png" media-type="image/png"/>
+		<item id="particular" href="images/particular.png" media-type="image/png"/>	
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="coverpage" linear="no"/>
+		<itemref idref="item1"/>
+		<itemref idref="item2"/>
+		<itemref idref="item3"/>
+		<itemref idref="item4"/>
+		<itemref idref="item5"/>
+		<itemref idref="item6"/>
+		<itemref idref="item7"/>
+		<itemref idref="item8"/>
+		<itemref idref="item9"/>
+		<itemref idref="item10"/>
+		<itemref idref="item11"/>
+		<itemref idref="item12"/>
+		<itemref idref="item13"/>
+		<itemref idref="item14"/>
+		<itemref idref="item15"/>
+		<itemref idref="item16"/>
+		<itemref idref="item17"/>
+		<itemref idref="item18"/>
+		<itemref idref="item19"/>
+		<itemref idref="item20"/>
+		<itemref idref="item21"/>
+		<itemref idref="item22"/>
+		<itemref idref="item23"/>
+		<itemref idref="item24"/>
+		<itemref idref="item25"/>
+		<itemref idref="item26"/>
+		<itemref idref="item28"/>
+		<itemref idref="item29"/>
+		<itemref idref="item30"/>
+		<itemref idref="item31"/>
+		<itemref idref="item32"/>
+		<itemref idref="item33"/>
+		<itemref idref="item34"/>
+		<itemref idref="item35"/>
+		<itemref idref="item36"/>
+		<itemref idref="item37"/>
+		<itemref idref="item38"/>
+		<itemref idref="item39"/>
+		<itemref idref="toc" linear="no"/>
+	</spine>
+	<guide>  
+		<reference type="cover" title="Cover" href="xhtml/cover.xhtml"/>  
+		<reference type="toc" title="Table of Contents" href="xhtml/toc_html.xhtml" />  
+		<reference type="text" title="Start" href="xhtml/Start.xhtml"/>
+	</guide> 	
+</package>
